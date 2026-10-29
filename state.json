@@ -1,7 +1,7 @@
 {
   "pending_long": false,
-  "pending_short": false,
-  "pending_start": "2026-10-12T00:23:24.911724+00:00",
+  "pending_short": true,
+  "pending_start": "2026-10-29T23:30:50.620168+00:00",
   "in_long": false,
   "in_short": false,
   "entry_price": null,
