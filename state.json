@@ -1,6 +1,6 @@
 {
   "pending_long": false,
-  "pending_short": true,
+  "pending_short": false,
   "pending_start": "2026-10-29T23:30:50.620168+00:00",
   "in_long": false,
   "in_short": false,
